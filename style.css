@@ -298,15 +298,15 @@ footer{
 	 left:0px;
 	 margin:150px 15px 0;
 	 background-color: #fff;
-	 padding:20px 5px;
+	 padding:20px 30px;
 	 width:92%;
 	 height:50px;
 	 border-radius:10px;
-	 justify-content: space-evenly;
+	 justify-content: space-between;
 	}
 
 	.container .semi-container .bottom .mobiledown a{
-		margin:0;
+		margin:0 20px;
 		padding:0;
 	}
 
