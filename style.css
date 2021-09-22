@@ -91,6 +91,7 @@ a{
 	padding:10px 0 10px 20px;
 	align-items: center;
 	text-align: left;
+	user-select: none;
 }
 
 .container .semi-container .input1 .blue{
@@ -264,27 +265,27 @@ footer{
 	}
 
 	.container .semi-container .input1 .cross{
-		margin:0 0px 0 55px;
+		margin:0 0px 0 40px;
 	}
 
 	.container .semi-container .input2 .cross{
-		margin:0 0px 0 115px;
+		margin:0 0px 0 100px;
 	}
 
 	.container .semi-container .input3 .cross{
-		margin:0 0px 0 123px;
+		margin:0 0px 0 110px;
 	}
 
 	.container .semi-container .input4 .cross{
-		margin:0 0px 0 165px;
+		margin:0 0px 0 155px;
 	}
 
 	.container .semi-container .input5 .cross{
-		margin:0 0px 0 152px;
+		margin:0 0px 0 140px;
 	}
 
 	.container .semi-container .input6 .cross{
-		margin:0 0px 0 17px;
+		margin:0 0px 0 10px;
 	}
 
 	.container .semi-container .bottom{
