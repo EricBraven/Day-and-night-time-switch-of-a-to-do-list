@@ -183,7 +183,7 @@ a{
 	cursor: pointer;
 }
 
-.container .semi-container .bottom div{
+.container .semi-container .bottom .mobiledown{
 	display: flex;
 	align-items: center;
 	justify-content: space-between;
@@ -296,10 +296,18 @@ footer{
 	.container .semi-container .bottom .mobiledown{
      position: absolute;
 	 left:0px;
-	 margin:150px 0px 0 15px;
+	 margin:150px 15px 0;
 	 background-color: #fff;
-	 padding:20px 40px;
+	 padding:20px 5px;
+	 width:92%;
+	 height:50px;
 	 border-radius:10px;
+	 justify-content: center;
+	}
+
+	.container .semi-container .bottom .mobiledown a{
+		margin:0;
+		padding:0;
 	}
 
 	footer input{
