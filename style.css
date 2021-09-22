@@ -302,7 +302,7 @@ footer{
 	 width:92%;
 	 height:50px;
 	 border-radius:10px;
-	 justify-content: center;
+	 justify-content: space-evenly;
 	}
 
 	.container .semi-container .bottom .mobiledown a{
